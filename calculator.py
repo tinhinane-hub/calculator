@@ -1,5 +1,5 @@
 while True:  
-    print("\nWelcome to the calculator")
+    print("\nWEElcome to the calculator")
     print("Choose operation:")
     print("+ Addition")
     print("- Subtraction")
